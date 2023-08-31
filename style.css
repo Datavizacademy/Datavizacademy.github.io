@@ -8,7 +8,7 @@ body{
     display: grid;
     max-width: 1200px;
     min-height: 600px;
-    grid-template-rows: 2fr 40px 4fr 80px;
+    grid-template-rows: 1fr 40px 4fr 80px;
     margin: auto;
 }
 
