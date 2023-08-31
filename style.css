@@ -8,7 +8,7 @@ body{
     display: grid;
     max-width: 1200px;
     min-height: 400px;
-    grid-template-rows: 1fr 0.3fr 2fr 0.5fr;
+    grid-template-rows: 200px 54px 400px 100px;
     margin: auto;
 }
 
@@ -26,7 +26,6 @@ body{
     background-color: rgb(186, 186, 186);
     display: grid;
     grid-auto-flow: column;
-    grid-template-rows: 1fr;
 }
 
 .menu a, a::after, .menu a::before{
