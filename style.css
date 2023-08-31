@@ -7,7 +7,7 @@ body{
 .main_container{
     display: grid;
     max-width: 1200px;
-    min-height: 400px;
+    min-height: 800px;
     grid-template-rows: 20% 5% 70% 5%;
     margin: auto;
 }
